@@ -8,5 +8,5 @@
 ### 相关技术 ###
 - 语言框架：Python/Flask
 - 数据库：Sqlite
-- wiki存储：markdown
+- wiki存储：Markdown
 - 模板：jinjia2
